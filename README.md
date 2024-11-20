@@ -1,7 +1,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/9598daa2-5a77-4c10-a5fd-1c3e25836243/deploy-status)](https://app.netlify.com/sites/sumo-paint/deploys)
 <h1 align="center" id="title">Paint Clone with HTML CSS and JavaScript</h1>
 
-<p align="center"><img src="https://media.graphassets.com/SaZfwkN2Ryeo8RgDa4gn" alt="project-image"></p>
+
 
 <h2>🚀 Demo</h2>
 
