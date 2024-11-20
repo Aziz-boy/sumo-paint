@@ -136,7 +136,7 @@ clearCanvasBtn.addEventListener('click', () => {
 // SAVE LIKE IMAGE OUR PAINT
 saveImageBtn.addEventListener('click', () => {
 	const link = document.createElement('a')
-	link.download = `Sammi-paint${Date.now()}.jpg`
+	link.download = `Sumo-paint${Date.now()}.jpg`
 	link.href = canvas.toDataURL()
 	link.click()
 })
@@ -149,3 +149,8 @@ const stopDraw = () => {
 canvas.addEventListener('mousedown', startDraw)
 canvas.addEventListener('mousemove', drawing)
 canvas.addEventListener('mouseup', stopDraw)
+
+// Add event listeners for touch events
+canvas.addEventListener('touchstart', startDraw);
+canvas.addEventListener('touchmove', drawing);
+canvas.addEventListener('touchend', stopDraw);
