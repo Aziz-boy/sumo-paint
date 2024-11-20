@@ -3,11 +3,9 @@
 
 <p align="center"><img src="https://media.graphassets.com/SaZfwkN2Ryeo8RgDa4gn" alt="project-image"></p>
 
-<p id="description">Unlock your creativity and enhance your web development skills with our comprehensive course on building a Paint Clone using HTML CSS and JavaScript. This hands-on course is designed for both beginners and intermediate developers who want to delve into the world of web application development while creating a fun and interactive project.</p>
-
 <h2>🚀 Demo</h2>
 
-[https://sammi.ac/projects/paint](https://sammi.ac/projects/paint)
+[https://sumo-paint.netlify.app](https://sumo-paint.netlify.app)
 
   
   
